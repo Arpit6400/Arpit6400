@@ -2,6 +2,9 @@
 <h3 align="center">A passionate Software developer </h3>
 
 <!-- - 🌱 I’m currently learning **MERN Stack** -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Arpit6400&label=Profile%20Views&color=0&icon=3&pretty=false" />
+</a>
 
 - 💬 Ask me about **DSA, Java, Javascript, HTML, CSS, Bootstrap, Spring Boot , AWS, Cloud**
 
